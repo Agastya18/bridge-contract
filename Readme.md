@@ -1,6 +1,6 @@
 # 🔒🔊 Token Bridge
 
-A 🌐 cross-chain 💳 token bridge enabling seamless 🚪 transfers between the two blockchain networks. The project consists of ⚖️ smart contracts on 2 different chain , an 📊 backend. (will soon have frontend)
+A 🌐 cross-chain 💳 token bridge enabling seamless 🚪 transfers between the two blockchain networks. The project consists of ⚖️ smart contracts on 2 different chain , an 📊 backend and react frontend.
 
 ## 🔢 Project Overview
 
